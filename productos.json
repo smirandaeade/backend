@@ -1,0 +1,11 @@
+[
+  {
+    "title": "ps5",
+    "description": "Playstation 5",
+    "code": "PROD123",
+    "price": 700,
+    "stock": 100,
+    "category": "Consolas",
+    "id": 1
+  }
+]
